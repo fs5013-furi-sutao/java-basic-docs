@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/java-basic-docs`,
   siteMetadata: {
     siteTitle: `Rocket Docs`,
     defaultTitle: `Rocket Docs`,
