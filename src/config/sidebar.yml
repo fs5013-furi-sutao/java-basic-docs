@@ -1,0 +1,30 @@
+# Sidebar navigation
+
+- label: 'Introduction'
+  link: '/'
+- label: 'Getting started'
+  link: '/getting-started'
+- label: 'Java 入門'
+  items:
+    - label: '標準出力'
+      link: '/java/intro/01-stdout'
+    - label: 'Java 出力'
+      link: '/java/intro/02-output'
+- label: Usage
+  items:
+    - label: 'Creating docs'
+      link: '/usage/creating-docs'
+    - label: 'Navigation'
+      link: '/usage/navigation'
+    - label: 'Shadowing'
+      link: '/usage/shadowing'
+- label: More
+  items:
+    - label: FAQ
+      link: /faq
+    - label: Changelog
+      link: /changelog
+- label: Community
+  items:
+    - label: 'Github'
+      link: https://github.com/rocketseat/gatsby-themes
